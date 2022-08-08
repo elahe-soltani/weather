@@ -50,7 +50,7 @@ ul {
 
 body {
   font: 1rem/1.3 "Roboto", sans-serif;
-  background:url("./skys.jpg");
+  background:url("../image/skys.jpg");
   background-size: cover;
   color: var(--text_dark);
   padding: 70px;
